@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Stramasso!
+#  Olá, eu sou o Bruno Stramasso!
 
 🎓 Estudante de Engenharia da Computação na **Universidade São Judas Tadeu**  
 💼  Ex Estagiário na **LG Electronics** | ex-Bradesco
