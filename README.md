@@ -26,6 +26,13 @@ Estou constantemente evoluindo minhas habilidades em:
 
 📫 **Vamos conversar?**  
 Entre em contato: 
-E=mail : bhstramasso@gmail.com
+
+E-mail : bhstramasso@gmail.com
+
 Telefone : (11) 9-9414-2419
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stramasso&layout=compact&theme=dark)
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stramasso&show_icons=true&theme=dark) 
+
 
