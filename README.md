@@ -25,5 +25,7 @@ Estou constantemente evoluindo minhas habilidades em:
 ---
 
 📫 **Vamos conversar?**  
-Entre em contato: bhstramasso@gmail.com
+Entre em contato: 
+E=mail : bhstramasso@gmail.com
+Telefone : (11) 9-9414-2419
 
