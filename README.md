@@ -3,7 +3,7 @@
 🎓 Estudante de Engenharia da Computação na **Universidade São Judas Tadeu**  
 💼 Ex-Estagiário na **LG Electronics** | Ex-Menor Aprendiz no **Bradesco S.A.**
 
----
+--
 
 ## 💡 Sobre mim
 
